@@ -1,8 +1,5 @@
 # <center> Проект 2: Анализ резюме из HeadHunter </center>
 
-
-
-
 ### Описание проекта
 Проведен анализ вакансий представленный в базе данных HeadHunter средствами SQL.
 
@@ -13,4 +10,4 @@
 4. Предметный анализ. Оценка вакансий связанный с данными.
 
 ### Результаты
-Результаты работы приведеы в :arrow_up:[ноутбуке проекта]([https://github.com/Nikita903416/SF_Project_2/blob/main/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb])
+Результаты работы приведеы в :arrow_up:[ноутбуке проекта](https://github.com/Nikita903416/SF_Project_2/blob/main/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
